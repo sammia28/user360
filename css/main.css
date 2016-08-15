@@ -1,0 +1,30 @@
+/*header*/
+.menu{
+	color: white;
+	font-size: 22px;
+}
+
+
+/*section1*/
+.imglarge{
+	background-color: rgba(136, 136, 136, 0.5);
+}
+.img-fondo{
+	background-image: url(../image/large.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:600px;
+}
+.titulo{
+
+}
+/*section2*/
+.subtema{
+	color:#68ADFF;
+	font-size: 32px;
+	
+}
+.icn-logo{
+	color:dodgerblue;
+	font-size: 32px;
+}
